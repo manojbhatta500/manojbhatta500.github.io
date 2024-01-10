@@ -68344,7 +68344,7 @@ A.oj.prototype={}
 A.Gb.prototype={}
 A.Cl.prototype={
 I(a){var s=null,r=$.acH(),q=t.p
-return A.bL(s,A.dH(A.a([B.N6,A.fp(s,50,s),A.xj(B.bw,A.a([new A.jY("Github","https://github.com/manojbhatta500","github.png",s),new A.jY("Linkedin","https://www.linkedin.com/in/manoj-bhatta-5071a6199/","linkedin.png",s),new A.jY("Instagram","https://www.instagram.com/manojbhatta500/z","insta.jpeg",s),new A.jY("facebook","https://www.facebook.com/manoj.bhatta.121398/","facebook.png",s)],q),B.ao,B.iV,50,50),A.fp(s,100,s)],q),B.P,s,B.a2,B.R),B.l,s,s,s,s,s,r,s,s,s,s,1/0)}}
+return A.bL(s,A.dH(A.a([B.N6,A.fp(s,50,s),A.xj(B.bw,A.a([new A.jY("Github","https://github.com/manojbhatta500","assets/github.png",s),new A.jY("Linkedin","https://www.linkedin.com/in/manoj-bhatta-5071a6199/","assets/linkedin.png",s),new A.jY("Instagram","https://www.instagram.com/manojbhatta500/z","assets/insta.jpeg",s),new A.jY("facebook","https://www.facebook.com/manoj.bhatta.121398/","assets/facebook.png",s)],q),B.ao,B.iV,50,50),A.fp(s,100,s)],q),B.P,s,B.a2,B.R),B.l,s,s,s,s,s,r,s,s,s,s,1/0)}}
 A.wF.prototype={
 ai(){return new A.Ow(B.k)}}
 A.Ow.prototype={
@@ -68481,7 +68481,7 @@ s=o.d
 o=o.c
 r=A.iH(30)
 q=A.iH(30)
-return A.aeF(A.bL(p,A.bL(B.N,A.tY("hacker.png",B.fC,p),B.l,p,p,new A.bS(B.j,p,p,q,p,p,B.a5),p,p,p,p,p,p,p,p),B.l,p,p,new A.bS(p,p,p,r,B.hA,B.kR,B.a5),p,s,p,p,B.hb,p,p,o),new A.m(0,2*n))},
+return A.aeF(A.bL(p,A.bL(B.N,A.tY("assets/hacker.png",B.fC,p),B.l,p,p,new A.bS(B.j,p,p,q,p,p,B.a5),p,p,p,p,p,p,p,p),B.l,p,p,new A.bS(p,p,p,r,B.hA,B.kR,B.a5),p,s,p,p,B.hb,p,p,o),new A.m(0,2*n))},
 $S:63}
 A.xn.prototype={
 m(){var s=this,r=s.c3$
@@ -74391,7 +74391,7 @@ return new A.Me(B.v8,q,p)})
 s($,"aBD","anR",()=>A.cl(16667,0))
 s($,"aAT","ano",()=>A.aes(0.5,1.1,100))
 s($,"azN","acG",()=>A.amB(0.78)/A.amB(0.9))
-r($,"aDs","aoY",()=>A.a([A.mQ(null,"projects/esim.jpeg","Upwork Project","Mobi Esim"),A.mQ("https://github.com/manojbhatta500/NepalSA","projects/message.png","Messaging App","Nepal SA"),A.mQ("https://github.com/manojbhatta500/collabNepal","projects/collab.jpeg","Online shopping App","Collab Nepal"),A.mQ("https://github.com/manojbhatta500/image-labeler-flutter","projects/ai.jpg","Image Labeling App","Image Labels"),A.mQ("https://github.com/manojbhatta500/mausam","projects/weatherapp.png","Weather App","Mausam"),A.mQ("https://github.com/manojbhatta500/covidstat","projects/virus.png","Live Covid Data App","Covid Sewa"),A.mQ("https://github.com/manojbhatta500/CinemaSewa","projects/movie.jpg","cinema Stats App","Cinema Sewa"),A.mQ("https://github.com/manojbhatta500/Bmindex","projects/bmiapp.png","Bmi Calculator app","Bmi Calculator")],A.ac("x<Gb>")))
+r($,"aDs","aoY",()=>A.a([A.mQ(null,"assets/projects/esim.jpeg","Upwork Project","Mobi Esim"),A.mQ("https://github.com/manojbhatta500/NepalSA","assets/projects/message.png","Messaging App","Nepal SA"),A.mQ("https://github.com/manojbhatta500/collabNepal","assets/projects/collab.jpeg","Online shopping App","Collab Nepal"),A.mQ("https://github.com/manojbhatta500/image-labeler-flutter","assets/projects/ai.jpg","Image Labeling App","Image Labels"),A.mQ("https://github.com/manojbhatta500/mausam","assets/projects/weatherapp.png","Weather App","Mausam"),A.mQ("https://github.com/manojbhatta500/covidstat","assets/projects/virus.png","Live Covid Data App","Covid Sewa"),A.mQ("https://github.com/manojbhatta500/CinemaSewa","assets/projects/movie.jpg","cinema Stats App","Cinema Sewa"),A.mQ("https://github.com/manojbhatta500/Bmindex","assets/projects/bmiapp.png","Bmi Calculator app","Bmi Calculator")],A.ac("x<Gb>")))
 r($,"azO","acH",()=>A.ox(null,t.i1))
 r($,"aDg","aoV",()=>A.a([$.ag_(),$.ag2(),$.acN(),$.acJ(),$.acH()],A.ac("x<dX<ag<a3>>>")))
 r($,"aDn","acV",()=>A.a([$.afZ(),$.ag3(),$.acN(),$.acJ(),$.acH()],A.ac("x<dX<ag<a3>>>")))
